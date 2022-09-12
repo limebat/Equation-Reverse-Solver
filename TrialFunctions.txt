@@ -1,0 +1,18 @@
+            if (j == sequentier){
+                sequentier = 0;
+                for (short int k{0}; k < 2*size; k++){
+                    double z = uniqueVaraibles[sequentier][Multiplication] * uniqueVaraibles[j][Division];
+                    uniqueVaraibles[sequentier+2*h*size][Net] = z;
+                    //std::cout << z << " testing all possible values, coordinates are:: " << sequentier << j << std::endl;
+                    uniqueCoordinates[sequentier][1][Net] = {sequentier};
+                    uniqueCoordinates[sequentier][2][Net] = {j}; //store information into (2*n)^2 size matrix
+                    std::cout << uniqueVaraibles[sequentier+2*h*size][Net] << " From combination of x:: " << uniqueCoordinates[sequentier][1][Net] << j << std::endl;
+                    
+                    printf("Checking out beans but in loop \n");        
+                    sequentier++;
+                }
+            }
+
+                    if (sequentier >= 1){ //turn operator wheel only when sequentierMultiplication turns
+                    sequentierOperator++;
+        }
