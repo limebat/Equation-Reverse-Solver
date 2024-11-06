@@ -48,4 +48,6 @@ The left number of each one is just the result of multiplying the respective coo
 
 This project is quite old, but I do truly hope this will assist anyone's endeavors who are interested. Attached is the C++ code.
 
-Best regards.
+Best regards,
+
+limebat
