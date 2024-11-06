@@ -44,7 +44,7 @@ The goal of this project is to solve all possible combinations of variables for 
 
 0.333333 testing all possible values, coordinates are:: 02
 
-The left number of each one is just the result of multiplying the respective coordinate. Ie, given coordinate 02, we are multiplying x1*x3 = 1*3 = 3 in this output example. As seen from the code, it will correctly identify that the only possible 'coordinate' is 22, corresponding to x3*x3. 
+The left number of each one is just the result of multiplying the respective coordinate. Ie, given coordinate 02, we are multiplying x1 \[dot\] x3 = 1 \[dot\] 3 = 3 in this output example. As seen from the code, it will correctly identify that the only possible 'coordinate' is 22, corresponding to x3*x3. 
 
 This project is quite old, but I do truly hope this will assist anyone's endeavors who are interested. Attached is the C++ code.
 
