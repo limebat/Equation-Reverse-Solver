@@ -1,5 +1,5 @@
 # Equation-Reverse-Solver
-Hello, hope all is well. This is my undergraduate freshman side-project as a hobby introduction for my own towards C++ and linear algebra. Now 2 years later as I update this repository, I hope this function may assist anyone who is interested in reverse-solving an equation based on input data. I am now in my Master's at GaTech, and I am now in gradschool and updating my old projects with the description ReadMe only -- all code here was from my freshman undergraduate, and I won't be updating this project anymore unfortunately. This is for memento's sake -- it is useful to see old projects in a timeline scale such as this for entertainment and pure educational purposes.
+Hello, hope all is well. This is my undergraduate freshman side-project as a hobby introduction for my own towards C++ and linear algebra. Now 2 years later as I update this repository, I hope this function may assist anyone who is interested in reverse-solving an equation based on input data. I am now in my Master's, where I am now updating my old projects with the description ReadMe only -- all code here was from my freshman undergraduate, and I won't be updating this project anymore unfortunately. This is for memento's sake and for assisting those who are interested.
 
 **Motivation**
 
